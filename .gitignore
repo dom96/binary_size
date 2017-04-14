@@ -1,0 +1,6 @@
+*.hi
+hello_o_split/
+*.o
+hello
+hello_*
+nimcache/

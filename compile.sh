@@ -13,3 +13,6 @@ mv hello hello_d
 
 rustc -O hello.rs
 mv hello hello_rust
+
+crystal build --release --no-debug hello.cr
+mv hello hello_crystal

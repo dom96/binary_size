@@ -16,3 +16,6 @@ mv hello hello_rust
 
 crystal build --release --no-debug hello.cr
 mv hello hello_crystal
+
+gcc -o hello hello.c
+mv hello hello_c

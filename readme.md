@@ -8,8 +8,8 @@ See ``compile.sh`` for the build flags used for each language.
 -rwxr-xr-x. 1 root root 1392640 Nov 22 14:26 hello_go       # go version go1.15.2 linux/amd64
 -rwxr-xr-x. 1 root root  919688 Nov 22 14:26 hello_hs       # The Glorious Glasgow Haskell Compilation System, version 8.8.4
 -rwxr-xr-x. 1 root root  471072 Nov 22 14:26 hello_crystal  # Crystal 0.35.1 [5999ae29b] (2020-06-19)
--rwxr-xr-x. 1 root root  409936 Nov 22 14:26 hello_nim      # Nim Compiler Version 1.0.4 [Linux: amd64]
 -rwxr-xr-x. 1 root root  352296 Nov 22 14:26 hello_rust     # rustc 1.47.0
+-rwxr-xr-x. 1 root root   88840 Nov 22 14:26 hello_nim      # Nim Compiler Version 1.4.0 [Linux: amd64]
 -rwxr-xr-x. 1 root root   22144 Nov 22 14:26 hello_d        # LDC - the LLVM D compiler (1.23.0)
 -rwxr-xr-x. 1 root root   20592 Nov 22 14:26 hello_c        # gcc (GCC) 10.2.1 20201016 (Red Hat 10.2.1-6)
 ```
@@ -20,7 +20,7 @@ Stripped versions (GNU strip version 2.35-14.fc33):
 -rwxr-xr-x. 1 root root  716296 Nov 22 14:30 hello_hs
 -rwxr-xr-x. 1 root root  405800 Nov 22 14:30 hello_crystal
 -rwxr-xr-x. 1 root root  289184 Nov 22 14:30 hello_rust
--rwxr-xr-x. 1 root root   47400 Nov 22 14:30 hello_nim
+-rwxr-xr-x. 1 root root   72544 Nov 22 14:30 hello_nim
 -rwxr-xr-x. 1 root root   15544 Nov 22 14:30 hello_d
 -rwxr-xr-x. 1 root root   15016 Nov 22 14:30 hello_c
 ```

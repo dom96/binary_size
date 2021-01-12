@@ -8,6 +8,7 @@ See ``compile.sh`` for the build flags used for each language.
 1388544 hello_go       # go version go1.15.6 linux/amd64
  919688 hello_hs       # The Glorious Glasgow Haskell Compilation System, version 8.8.4
  471072 hello_crystal  # Crystal 0.35.1 [5999ae29b] (2020-06-19)
+ 462900 hello_v        # V 0.2 30c0659
  348608 hello_rust     # rustc 1.49.0
  190864 hello_pas      # Free Pascal Compiler version 3.2.0 [2020/07/27] for x86_64
   88912 hello_nim      # Nim Compiler Version 1.4.2 [Linux: amd64]
@@ -20,6 +21,7 @@ Stripped versions (GNU strip version 2.35-14.fc33):
 ```
 1387768 hello_go
  716296 hello_hs
+ 419056 hello_v
  405800 hello_crystal
  285136 hello_rust
  190864 hello_pas

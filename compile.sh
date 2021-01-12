@@ -22,3 +22,7 @@ mv hello hello_c
 
 fpc hello.pas
 mv hello hello_pas
+
+nasm -f elf64 hello.asm
+ld hello.o -o hello
+mv hello hello_asm

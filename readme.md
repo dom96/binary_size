@@ -5,7 +5,7 @@ See ``compile.sh`` for the build flags used for each language.
 **Results:**
 
 ```
-1392640 hello_go       # go version go1.15.2 linux/amd64
+1388544 hello_go       # go version go1.15.6 linux/amd64
  919688 hello_hs       # The Glorious Glasgow Haskell Compilation System, version 8.8.4
  471072 hello_crystal  # Crystal 0.35.1 [5999ae29b] (2020-06-19)
  348608 hello_rust     # rustc 1.49.0
@@ -17,7 +17,7 @@ See ``compile.sh`` for the build flags used for each language.
 
 Stripped versions (GNU strip version 2.35-14.fc33):
 ```
-1391832 hello_go
+1387768 hello_go
  716296 hello_hs
  405800 hello_crystal
  285136 hello_rust

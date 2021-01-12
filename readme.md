@@ -10,7 +10,7 @@ See ``compile.sh`` for the build flags used for each language.
  471072 hello_crystal  # Crystal 0.35.1 [5999ae29b] (2020-06-19)
  348608 hello_rust     # rustc 1.49.0
  190864 hello_pas      # Free Pascal Compiler version 3.2.0 [2020/07/27] for x86_64
-  88840 hello_nim      # Nim Compiler Version 1.4.0 [Linux: amd64]
+  88912 hello_nim      # Nim Compiler Version 1.4.2 [Linux: amd64]
   22144 hello_d        # LDC - the LLVM D compiler (1.23.0)
   20592 hello_c        # gcc (GCC) 10.2.1 20201016 (Red Hat 10.2.1-6)
 ```
@@ -22,7 +22,7 @@ Stripped versions (GNU strip version 2.35-14.fc33):
  405800 hello_crystal
  285136 hello_rust
  190864 hello_pas
-  72544 hello_nim
+  72592 hello_nim
   15544 hello_d
   15016 hello_c
 ```

@@ -19,3 +19,6 @@ mv hello hello_crystal
 
 gcc -o hello hello.c
 mv hello hello_c
+
+fpc hello.pas
+mv hello hello_pas

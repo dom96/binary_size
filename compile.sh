@@ -19,3 +19,13 @@ mv hello hello_crystal
 
 gcc -o hello hello.c
 mv hello hello_c
+
+fpc hello.pas
+mv hello hello_pas
+
+nasm -f elf64 hello.asm
+ld hello.o -o hello
+mv hello hello_asm
+
+v hello.v
+mv hello hello_v

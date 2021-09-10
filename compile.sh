@@ -11,7 +11,7 @@ mv hello hello_go
 ldc2 -Oz hello.d
 mv hello hello_d
 
-rustc -O hello.rs
+rustc -O -C prefer-dynamic hello.rs
 mv hello hello_rust
 
 crystal build --release --no-debug hello.cr
